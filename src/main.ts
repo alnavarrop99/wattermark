@@ -1,5 +1,3 @@
-import './style.css'
-
 import { Video, Canvas, Button } from './comp'
 import { setupPause, setupPlay, setupVideo } from './lib'
 
